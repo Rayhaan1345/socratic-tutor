@@ -1,0 +1,15 @@
+{
+  "name": "mumbai-ai-lab",
+  "description": "Plugins from Mumbai AI Lab, a student-run programme in Navi Mumbai that teaches students to use AI as a questioner.",
+  "owner": {
+    "name": "Mumbai AI Lab",
+    "url": "https://mailab.in"
+  },
+  "plugins": [
+    {
+      "name": "mailab-socratic-tutor",
+      "source": "./",
+      "description": "A tutor that teaches by asking. Guides students to the answer with questions and gives it only after they have tried."
+    }
+  ]
+}

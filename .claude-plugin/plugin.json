@@ -1,0 +1,22 @@
+{
+  "name": "mailab-socratic-tutor",
+  "displayName": "Socratic Tutor by Mumbai AI Lab",
+  "version": "1.0.0",
+  "description": "Turns Claude into a tutor that teaches by asking. For homework, problem sets, proofs, code you are debugging and essays you are writing, it guides you to the answer with questions and gives the answer once you have tried or ask for it.",
+  "author": {
+    "name": "Mumbai AI Lab",
+    "url": "https://mailab.in"
+  },
+  "homepage": "https://mailab.in",
+  "repository": "https://github.com/Rayhaan1345/socratic-tutor",
+  "license": "MIT",
+  "keywords": [
+    "education",
+    "tutoring",
+    "socratic",
+    "students",
+    "homework",
+    "learning",
+    "quiz"
+  ]
+}
